@@ -1,5 +1,5 @@
 # Turn on URL rewriting only when mod rewrite is turn on
-
+php_value allow_url_fopen 1
 <IfModule mod_rewrite.c>
 	RewriteEngine On
 
