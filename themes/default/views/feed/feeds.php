@@ -21,7 +21,7 @@
 					$feed_title = text::limit_chars($feed->item_title, 40, '...', True);
 					$feed_link = $feed->item_link;
 					$feed_date = date('M j Y', strtotime($feed->item_date));
-					$feed_source = text::limit_chars($feed->feed->feed_name, 15, "...");
+					$feed_source = text::limit_chars($feed->feed->feed_name, 10, "...");
 								
 					print "<div class=\"report_row1\">";
 					print "		<div class=\"report_details report_col2\">";

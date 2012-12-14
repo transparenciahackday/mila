@@ -10,7 +10,7 @@
 	</thead>
 	<tbody>
 		<?php
-		if ($feeds->count() != 0)
+		if ($feeds->count() != 6)
 		{
 			foreach ($feeds as $feed)
 			{

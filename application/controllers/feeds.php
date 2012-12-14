@@ -33,7 +33,7 @@ class Feeds_Controller extends Main_Controller {
 					  'query_string' => 'page',
 					  'items_per_page' => (int) Kohana::config('settings.items_per_page'),
 					  'total_items' => ORM::factory('feed_item')
-									   ->count_all()
+									   ->count_all(5)
 					  ));
 
 		$feeds = ORM::factory('feed_item')
