@@ -189,10 +189,10 @@
 									<?php print form::input('longitude', $form['longitude'], ' class="text"'); ?>
 								</div>
 								<ul class="map-toggles">
-						          <li><a href="#" class="smaller-map">Smaller map</a></li>
-						          <li style="display:block;"><a href="#" class="wider-map">Wider map</a></li>
-						          <li><a href="#" class="taller-map">Taller map</a></li>
-						          <li><a href="#" class="shorter-map">Shorter Map</a></li>
+						          <li><a href="#" class="smaller-map">Encolher mapa</a></li>
+						          <li style="display:block;"><a href="#" class="wider-map">Alargar mapa</a></li>
+						          <li><a href="#" class="taller-map">Ampliar Mapa</a></li>
+						          <li><a href="#" class="shorter-map">Diminuir mapa</a></li>
 						        </ul>
 								<div id="divMap" class="map_holder_reports">
 									<div id="geometryLabelerHolder" class="olControlNoSelect">
