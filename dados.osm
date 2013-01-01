@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.5' generator='GPSBabel-1.4.3'>
+  <node id='-1' visible='true' lat='41.1657250' lon='-8.6242710'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Escadas'/>
+    <tag k='note' v='Escadas que ligam o passeio à estrada, única ligação para o resto do passeios deste lado&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/5&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-2' visible='true' lat='41.1657150' lon='-8.6244680'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passeio Estreito'/>
+    <tag k='note' v='Esta rua é praticamente impossível para alguém dependente de cadeira de rodas. De um lado da estrada, o passeio é demasiado estreito, do outro, temos umas escadas que ligam o passeio à rampa da rua.&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/6&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-3' visible='true' lat='41.1443450' lon='-8.6120810'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa dos dois lados'/>
+    <tag k='note' v='Passadeira sem rampa na Rua Mouzinho da Silveira, num declive&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/7&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-4' visible='true' lat='41.1424690' lon='-8.6139990'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa dos dois lados'/>
+    <tag k='note' v='Passadeira sem rampa na Rua Mouzinho da Silveira, num declive&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/8&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-5' visible='true' lat='41.1426170' lon='-8.6141400'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa de um lado e com estrada no outro'/>
+    <tag k='note' v='Passeio acaba numa estrada&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/9&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-6' visible='true' lat='41.1420490' lon='-8.6145260'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Obras junto ao Hard Club'/>
+    <tag k='note' v='Obstáculo temporário&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/10&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-7' visible='true' lat='41.1427400' lon='-8.6141620'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa dos dois lados'/>
+    <tag k='note' v='Num declive&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/11&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-8' visible='true' lat='41.1437440' lon='-8.6133080'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passeio estreito'/>
+    <tag k='note' v='Declive&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/12&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-9' visible='true' lat='41.1427060' lon='-8.6140130'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa dos dois lados'/>
+    <tag k='note' v='Passadeira sem rampa dos dois lados num declive&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/13&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-10' visible='true' lat='38.6987990' lon='-9.2744260'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='elevadores da passagem pedonal sobre linha CP'/>
+    <tag k='note' v='Sempre que passo neste local, os elevadores que permitem a travessia do caminho de ferro, na estação CP de Caxias, estão desligados.
+
+Assim é impossível o acesso ao cais do sentido Lisboa Cascais.&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/14&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-11' visible='true' lat='40.6584200' lon='-7.9142030'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passeios'/>
+    <tag k='note' v='Av. sem passeios rampeados nos cruzamentos (em qualquer um dos lados)&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/15&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-12' visible='true' lat='41.1668620' lon='-8.6265060'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa de um lado'/>
+    <tag k='note' v='Passadeira sem rampa de um lado&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/16&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-13' visible='true' lat='41.1680740' lon='-8.6300900'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa dos dois lados'/>
+    <tag k='note' v='Passadeira sem rampa dos dois lados&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/17&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-14' visible='true' lat='41.1681060' lon='-8.6298110'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa dos dois lados'/>
+    <tag k='note' v='Passadeira sem rampa dos dois lados&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/18&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-15' visible='true' lat='41.1587360' lon='-8.6271070'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Obras intermináveis'/>
+    <tag k='note' v='plataformas de madeira estreitas, desvio de uma obra que dura alguns anos&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/19&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-16' visible='true' lat='41.1557380' lon='-8.6273650'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Sem rampa de um lado'/>
+    <tag k='note' v='Sem rampa de um lado&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/20&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-17' visible='true' lat='41.1675080' lon='-8.6204980'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa'/>
+    <tag k='note' v='Passadeira sem rampa&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/21&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-18' visible='true' lat='41.1675570' lon='-8.6204550'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa'/>
+    <tag k='note' v='Passadeira sem rampa&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/22&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-19' visible='true' lat='41.1675730' lon='-8.6201010'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa'/>
+    <tag k='note' v='Passadeira sem rampa&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/23&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-20' visible='true' lat='41.1675480' lon='-8.6199940'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa'/>
+    <tag k='note' v='Passadeira sem rampa&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/24&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-21' visible='true' lat='41.1675080' lon='-8.6201230'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa'/>
+    <tag k='note' v='Passadeira sem rampa&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/25&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-22' visible='true' lat='41.1657800' lon='-8.6204340'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa'/>
+    <tag k='note' v='Passadeira sem rampa&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/26&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-23' visible='true' lat='41.1659410' lon='-8.6201330'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa de um lado'/>
+    <tag k='note' v='Passadeira sem rampa de um lado&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/27&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-24' visible='true' lat='41.1657800' lon='-8.6202410'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa de um lado'/>
+    <tag k='note' v='Passadeira sem rampa de um lado&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/28&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-25' visible='true' lat='41.1671200' lon='-8.6211850'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Travessa sem passeio/passeio estreito'/>
+    <tag k='note' v='Travessa sem passeio/passeio estreito&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/29&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-26' visible='true' lat='41.1674830' lon='-8.6214210'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa'/>
+    <tag k='note' v='Passadeira sem rampa dos dois lados&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/30&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-27' visible='true' lat='41.1674840' lon='-8.6231160'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa'/>
+    <tag k='note' v='Passadeira sem rampa&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/31&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-28' visible='true' lat='41.1674920' lon='-8.6230520'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa'/>
+    <tag k='note' v='Passadeira sem Rampa&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/32&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-29' visible='true' lat='41.1671770' lon='-8.6232660'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Corte no passeio sem rampa'/>
+    <tag k='note' v='Corte do Passeio sem rampa&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/33&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-30' visible='true' lat='41.1675730' lon='-8.6231050'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa'/>
+    <tag k='note' v='Passadeira sem rampa&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/34&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-31' visible='true' lat='41.1646650' lon='-8.6261630'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa'/>
+    <tag k='note' v='Passadeira sem rampa&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/35&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-32' visible='true' lat='41.1670200' lon='-8.6241970'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa dos dois lados'/>
+    <tag k='note' v='Perto do restaurante natária&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/36&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-33' visible='true' lat='41.1629040' lon='-8.6124520'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passeio sem rampa'/>
+    <tag k='note' v='Passeio sem rampa&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/37&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-34' visible='true' lat='41.1638730' lon='-8.6200910'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passeio sem rampa'/>
+    <tag k='note' v='Passeio sem rampa&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/38&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-35' visible='true' lat='41.1639380' lon='-8.6203910'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passeio sem rampa'/>
+    <tag k='note' v='Passeio sem rampa&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/39&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-36' visible='true' lat='41.1641970' lon='-8.6228800'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passeio sem rampa'/>
+    <tag k='note' v='Passeio sem rampa dos dois lados&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/40&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-37' visible='true' lat='41.1641320' lon='-8.6226230'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passeio sem rampa'/>
+    <tag k='note' v='Passeio sem rampa dos dois lados&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/41&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-38' visible='true' lat='41.1647130' lon='-8.6241680'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Rua estreita'/>
+    <tag k='note' v='Estreito dos dois lados&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/42&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-39' visible='true' lat='41.1524680' lon='-8.6109500'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Obstáculos no Passeio'/>
+    <tag k='note' v='Dois candeeiros e um parquimetro no meio do passeio, que reduz o espaço para cadeiras de rodas&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/43&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-40' visible='true' lat='41.1515310' lon='-8.6144690'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa'/>
+    <tag k='note' v='Passadeira sem rampa dos dois lados&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/44&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-41' visible='true' lat='41.1514660' lon='-8.6144900'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa'/>
+    <tag k='note' v='Passadeira sem rampa junto à PSP de Coronel Pacheco&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/45&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-42' visible='true' lat='41.1525810' lon='-8.6179230'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa'/>
+    <tag k='note' v='passadeira sem rampa dos dois lados&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/46&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-43' visible='true' lat='41.1561190' lon='-8.6191040'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa'/>
+    <tag k='note' v='passadeira sem rampa dos dois lados&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/47&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-44' visible='true' lat='41.1562160' lon='-8.6189750'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa'/>
+    <tag k='note' v='passadeira sem rampa&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/49&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-45' visible='true' lat='41.1563450' lon='-8.6192540'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa'/>
+    <tag k='note' v='Passadeira sem rampa dos dois lados&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/50&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-46' visible='true' lat='41.1582840' lon='-8.6231590'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa'/>
+    <tag k='note' v='Passadeira sem Rampa dos dois lados&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/51&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-47' visible='true' lat='41.1600770' lon='-8.6248970'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passeio estreito'/>
+    <tag k='note' v='Passeio estreito dos dois lados&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/52&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+  <node id='-48' visible='true' lat='41.1641970' lon='-8.6250260'>
+    <tag k='created_by' v='GPSBabel-1.4.3'/>
+    <tag k='name' v='Passadeira sem rampa'/>
+    <tag k='note' v='Passadeira sem rampa de um lado&lt;br /&gt;&lt;a href=&quot;http://localhost/reports/view/53&quot;&gt;More...&lt;/a&gt;'/>
+  </node>
+</osm>

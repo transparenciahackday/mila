@@ -336,6 +336,7 @@ $lang = array(
 	'reports_btn_browse' => 'Procurar',
 	'reports_btn_submit' => 'Enviar',
 	'reports_categories' => 'Categorias',
+	'reports_count' => '%d obstáculos',	
 	'reports_date' => 'Data',
 	'reports_description' => 'Descrição',
 	'reports_download_csv' => 'Os dados serão enviados no formato CSV',

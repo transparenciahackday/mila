@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>
+			Mila		</name>
+				<Style id="category_1">
+			<IconStyle>
+				<color>
+				ff9900CC				</color>
+				<scale>0.8</scale>
+				<Icon>
+					<href>
+					http://localhost/plugins/downloadreports/img/circle_border.png					</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+				<Style id="category_2">
+			<IconStyle>
+				<color>
+				ff3300FF				</color>
+				<scale>0.8</scale>
+				<Icon>
+					<href>
+					http://localhost/plugins/downloadreports/img/circle_border.png					</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+				<Style id="category_3">
+			<IconStyle>
+				<color>
+				ff663300				</color>
+				<scale>0.8</scale>
+				<Icon>
+					<href>
+					http://localhost/plugins/downloadreports/img/circle_border.png					</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+				<Style id="category_6">
+			<IconStyle>
+				<color>
+				ffff0000				</color>
+				<scale>0.8</scale>
+				<Icon>
+					<href>
+					http://localhost/plugins/downloadreports/img/circle_border.png					</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+				<Style id="category_7">
+			<IconStyle>
+				<color>
+				ffffa200				</color>
+				<scale>0.8</scale>
+				<Icon>
+					<href>
+					http://localhost/plugins/downloadreports/img/circle_border.png					</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+				<Placemark>
+			<styleUrl>#category_6</styleUrl>			<name><![CDATA[Escadas]]></name>
+			<description>
+				<![CDATA[Escadas que ligam o passeio à estrada, única ligação para o resto do passeios deste lado<br /><a href="http://localhost/reports/view/5">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua António Enes, 4440-452 Oporto, Portugal]]></address>
+			<Point>
+				<coordinates>
+					-8.624271,41.165725				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_3</styleUrl>			<name><![CDATA[Passeio Estreito]]></name>
+			<description>
+				<![CDATA[Esta rua é praticamente impossível para alguém dependente de cadeira de rodas. De um lado da estrada, o passeio é demasiado estreito, do outro, temos umas escadas que ligam o passeio à rampa da rua.<br /><a href="http://localhost/reports/view/6">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua António Enes]]></address>
+			<Point>
+				<coordinates>
+					-8.624468,41.165715				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa dos dois lados]]></name>
+			<description>
+				<![CDATA[Passadeira sem rampa na Rua Mouzinho da Silveira, num declive<br /><a href="http://localhost/reports/view/7">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua mouzinho da silveira, portugal]]></address>
+			<Point>
+				<coordinates>
+					-8.612081,41.144345				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa dos dois lados]]></name>
+			<description>
+				<![CDATA[Passadeira sem rampa na Rua Mouzinho da Silveira, num declive<br /><a href="http://localhost/reports/view/8">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua mouzinho da silveira, portugal]]></address>
+			<Point>
+				<coordinates>
+					-8.613999,41.142469				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa de um lado e com estrada no outro]]></name>
+			<description>
+				<![CDATA[Passeio acaba numa estrada<br /><a href="http://localhost/reports/view/9">More...</a>]]>
+			</description>
+			<address><![CDATA[72, rua mouzinho da silveira, porto district, oporto, portugal]]></address>
+			<Point>
+				<coordinates>
+					-8.61414,41.142617				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_7</styleUrl>			<name><![CDATA[Obras junto ao Hard Club]]></name>
+			<description>
+				<![CDATA[Obstáculo temporário<br /><a href="http://localhost/reports/view/10">More...</a>]]>
+			</description>
+			<address><![CDATA[61, rua mouzinho da silveira, porto district, oporto, portugal]]></address>
+			<Point>
+				<coordinates>
+					-8.614526,41.142049				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa dos dois lados]]></name>
+			<description>
+				<![CDATA[Num declive<br /><a href="http://localhost/reports/view/11">More...</a>]]>
+			</description>
+			<address><![CDATA[100, rua das flores, porto district, oporto, portugal]]></address>
+			<Point>
+				<coordinates>
+					-8.614162,41.14274				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_3</styleUrl>			<name><![CDATA[Passeio estreito]]></name>
+			<description>
+				<![CDATA[Declive<br /><a href="http://localhost/reports/view/12">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua Ponte Nova, Porto, portugal]]></address>
+			<Point>
+				<coordinates>
+					-8.613308,41.143744				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa dos dois lados]]></name>
+			<description>
+				<![CDATA[Passadeira sem rampa dos dois lados num declive<br /><a href="http://localhost/reports/view/13">More...</a>]]>
+			</description>
+			<address><![CDATA[253, rua mouzinho da silveira, porto district, oporto, portugal]]></address>
+			<Point>
+				<coordinates>
+					-8.614013,41.142706				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[elevadores da passagem pedonal sobre linha CP]]></name>
+			<description>
+				<![CDATA[Sempre que passo neste local, os elevadores que permitem a travessia do caminho de ferro, na estação CP de Caxias, estão desligados.
+
+Assim é impossível o acesso ao cais do sentido Lisboa Cascais.<br /><a href="http://localhost/reports/view/14">More...</a>]]>
+			</description>
+			<address><![CDATA[Caxias - Oeiras - Portugal]]></address>
+			<Point>
+				<coordinates>
+					-9.274426,38.698799				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passeios]]></name>
+			<description>
+				<![CDATA[Av. sem passeios rampeados nos cruzamentos (em qualquer um dos lados)<br /><a href="http://localhost/reports/view/15">More...</a>]]>
+			</description>
+			<address><![CDATA[Viseu]]></address>
+			<Point>
+				<coordinates>
+					-7.914203,40.65842				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa de um lado]]></name>
+			<description>
+				<![CDATA[Passadeira sem rampa de um lado<br /><a href="http://localhost/reports/view/16">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua da Prelada, ao lado do Continente]]></address>
+			<Point>
+				<coordinates>
+					-8.626506,41.166862				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa dos dois lados]]></name>
+			<description>
+				<![CDATA[Passadeira sem rampa dos dois lados<br /><a href="http://localhost/reports/view/17">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua Lugarinho]]></address>
+			<Point>
+				<coordinates>
+					-8.63009,41.168074				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa dos dois lados]]></name>
+			<description>
+				<![CDATA[Passadeira sem rampa dos dois lados<br /><a href="http://localhost/reports/view/18">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua Castelos]]></address>
+			<Point>
+				<coordinates>
+					-8.629811,41.168106				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_7</styleUrl>			<name><![CDATA[Obras intermináveis]]></name>
+			<description>
+				<![CDATA[plataformas de madeira estreitas, desvio de uma obra que dura alguns anos<br /><a href="http://localhost/reports/view/19">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua Nossa Senhora de Fátima, perto do Pingo Doce]]></address>
+			<Point>
+				<coordinates>
+					-8.627107,41.158736				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Sem rampa de um lado]]></name>
+			<description>
+				<![CDATA[Sem rampa de um lado<br /><a href="http://localhost/reports/view/20">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua de Júlio Dinis, perto da Ervanária Portuense]]></address>
+			<Point>
+				<coordinates>
+					-8.627365,41.155738				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa]]></name>
+			<description>
+				<![CDATA[Passadeira sem rampa<br /><a href="http://localhost/reports/view/21">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua São Dinis]]></address>
+			<Point>
+				<coordinates>
+					-8.620498,41.167508				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa]]></name>
+			<description>
+				<![CDATA[Passadeira sem rampa<br /><a href="http://localhost/reports/view/22">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua São Dinis]]></address>
+			<Point>
+				<coordinates>
+					-8.620455,41.167557				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa]]></name>
+			<description>
+				<![CDATA[Passadeira sem rampa<br /><a href="http://localhost/reports/view/23">More...</a>]]>
+			</description>
+			<address><![CDATA[Entrada para automóveis da Direcção de Ambiente da CMP]]></address>
+			<Point>
+				<coordinates>
+					-8.620101,41.167573				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa]]></name>
+			<description>
+				<![CDATA[Passadeira sem rampa<br /><a href="http://localhost/reports/view/24">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua São Dinis, esquina com Serpa Pinto]]></address>
+			<Point>
+				<coordinates>
+					-8.619994,41.167548				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa]]></name>
+			<description>
+				<![CDATA[Passadeira sem rampa<br /><a href="http://localhost/reports/view/25">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua Serpa Pinto, esquina com Rua S.DInis]]></address>
+			<Point>
+				<coordinates>
+					-8.620123,41.167508				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa]]></name>
+			<description>
+				<![CDATA[Passadeira sem rampa<br /><a href="http://localhost/reports/view/26">More...</a>]]>
+			</description>
+			<address><![CDATA[Travessa São Dinis, esquina com Serpa Pinto]]></address>
+			<Point>
+				<coordinates>
+					-8.620434,41.16578				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa de um lado]]></name>
+			<description>
+				<![CDATA[Passadeira sem rampa de um lado<br /><a href="http://localhost/reports/view/27">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua Serpa Pinto, perto de Rua Zaire e Travessa São Dinis]]></address>
+			<Point>
+				<coordinates>
+					-8.620133,41.165941				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa de um lado]]></name>
+			<description>
+				<![CDATA[Passadeira sem rampa de um lado<br /><a href="http://localhost/reports/view/28">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua Zaire, esquina com Rua Serpa Pinto]]></address>
+			<Point>
+				<coordinates>
+					-8.620241,41.16578				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_3</styleUrl>			<name><![CDATA[Travessa sem passeio/passeio estreito]]></name>
+			<description>
+				<![CDATA[Travessa sem passeio/passeio estreito<br /><a href="http://localhost/reports/view/29">More...</a>]]>
+			</description>
+			<address><![CDATA[Travessa São Dinis]]></address>
+			<Point>
+				<coordinates>
+					-8.621185,41.16712				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa]]></name>
+			<description>
+				<![CDATA[Passadeira sem rampa dos dois lados<br /><a href="http://localhost/reports/view/30">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua São Dinis, esquina com Travessa São Dinis]]></address>
+			<Point>
+				<coordinates>
+					-8.621421,41.167483				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa]]></name>
+			<description>
+				<![CDATA[Passadeira sem rampa<br /><a href="http://localhost/reports/view/31">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua Freire de Andrade]]></address>
+			<Point>
+				<coordinates>
+					-8.623116,41.167484				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa]]></name>
+			<description>
+				<![CDATA[Passadeira sem Rampa<br /><a href="http://localhost/reports/view/32">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua São Dinis]]></address>
+			<Point>
+				<coordinates>
+					-8.623052,41.167492				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Corte no passeio sem rampa]]></name>
+			<description>
+				<![CDATA[Corte do Passeio sem rampa<br /><a href="http://localhost/reports/view/33">More...</a>]]>
+			</description>
+			<address><![CDATA[Travessa da Natária e Rua Freire de Andrade]]></address>
+			<Point>
+				<coordinates>
+					-8.623266,41.167177				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa]]></name>
+			<description>
+				<![CDATA[Passadeira sem rampa<br /><a href="http://localhost/reports/view/34">More...</a>]]>
+			</description>
+			<address><![CDATA[Entre Natária e Serpa Pinto]]></address>
+			<Point>
+				<coordinates>
+					-8.623105,41.167573				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa]]></name>
+			<description>
+				<![CDATA[Passadeira sem rampa<br /><a href="http://localhost/reports/view/35">More...</a>]]>
+			</description>
+			<address><![CDATA[Estacionamento junto ao Poeta]]></address>
+			<Point>
+				<coordinates>
+					-8.626163,41.164665				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa dos dois lados]]></name>
+			<description>
+				<![CDATA[Perto do restaurante natária<br /><a href="http://localhost/reports/view/36">More...</a>]]>
+			</description>
+			<address><![CDATA[60, rua da natária, porto district, portugal]]></address>
+			<Point>
+				<coordinates>
+					-8.624197,41.16702				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passeio sem rampa]]></name>
+			<description>
+				<![CDATA[Passeio sem rampa<br /><a href="http://localhost/reports/view/37">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua da Constituição]]></address>
+			<Point>
+				<coordinates>
+					-8.612452,41.162904				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passeio sem rampa]]></name>
+			<description>
+				<![CDATA[Passeio sem rampa<br /><a href="http://localhost/reports/view/38">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua da Constituição]]></address>
+			<Point>
+				<coordinates>
+					-8.620091,41.163873				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passeio sem rampa]]></name>
+			<description>
+				<![CDATA[Passeio sem rampa<br /><a href="http://localhost/reports/view/39">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua da Constituição]]></address>
+			<Point>
+				<coordinates>
+					-8.620391,41.163938				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passeio sem rampa]]></name>
+			<description>
+				<![CDATA[Passeio sem rampa dos dois lados<br /><a href="http://localhost/reports/view/40">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua da Constituição]]></address>
+			<Point>
+				<coordinates>
+					-8.62288,41.164197				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passeio sem rampa]]></name>
+			<description>
+				<![CDATA[Passeio sem rampa dos dois lados<br /><a href="http://localhost/reports/view/41">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua da Constituição]]></address>
+			<Point>
+				<coordinates>
+					-8.622623,41.164132				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_3</styleUrl>			<name><![CDATA[Rua estreita]]></name>
+			<description>
+				<![CDATA[Estreito dos dois lados<br /><a href="http://localhost/reports/view/42">More...</a>]]>
+			</description>
+			<address><![CDATA[Praça do Exército Libertador]]></address>
+			<Point>
+				<coordinates>
+					-8.624168,41.164713				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_6</styleUrl>			<name><![CDATA[Obstáculos no Passeio]]></name>
+			<description>
+				<![CDATA[Dois candeeiros e um parquimetro no meio do passeio, que reduz o espaço para cadeiras de rodas<br /><a href="http://localhost/reports/view/43">More...</a>]]>
+			</description>
+			<address><![CDATA[Entre Trindade e Almada, perto da Câmara do Porto]]></address>
+			<Point>
+				<coordinates>
+					-8.61095,41.152468				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa]]></name>
+			<description>
+				<![CDATA[Passadeira sem rampa dos dois lados<br /><a href="http://localhost/reports/view/44">More...</a>]]>
+			</description>
+			<address><![CDATA[junto à PSP de Coronel Pacheco]]></address>
+			<Point>
+				<coordinates>
+					-8.614469,41.151531				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa]]></name>
+			<description>
+				<![CDATA[Passadeira sem rampa junto à PSP de Coronel Pacheco<br /><a href="http://localhost/reports/view/45">More...</a>]]>
+			</description>
+			<address><![CDATA[junto à PSP de Coronel Pacheco]]></address>
+			<Point>
+				<coordinates>
+					-8.61449,41.151466				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa]]></name>
+			<description>
+				<![CDATA[passadeira sem rampa dos dois lados<br /><a href="http://localhost/reports/view/46">More...</a>]]>
+			</description>
+			<address><![CDATA[Cedofeita, junto ao Pingo Doce]]></address>
+			<Point>
+				<coordinates>
+					-8.617923,41.152581				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa]]></name>
+			<description>
+				<![CDATA[passadeira sem rampa dos dois lados<br /><a href="http://localhost/reports/view/47">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua da Boavista]]></address>
+			<Point>
+				<coordinates>
+					-8.619104,41.156119				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa]]></name>
+			<description>
+				<![CDATA[passadeira sem rampa dos dois lados<br /><a href="http://localhost/reports/view/48">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua da Boavista]]></address>
+			<Point>
+				<coordinates>
+					-8.619104,41.156119				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa]]></name>
+			<description>
+				<![CDATA[passadeira sem rampa<br /><a href="http://localhost/reports/view/49">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua da Boavista]]></address>
+			<Point>
+				<coordinates>
+					-8.618975,41.156216				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa]]></name>
+			<description>
+				<![CDATA[Passadeira sem rampa dos dois lados<br /><a href="http://localhost/reports/view/50">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua da Boavista]]></address>
+			<Point>
+				<coordinates>
+					-8.619254,41.156345				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa]]></name>
+			<description>
+				<![CDATA[Passadeira sem Rampa dos dois lados<br /><a href="http://localhost/reports/view/51">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua de Oliveira Monteiro, perto da Rua Dr. Emílio Peres]]></address>
+			<Point>
+				<coordinates>
+					-8.623159,41.158284				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_3</styleUrl>			<name><![CDATA[Passeio estreito]]></name>
+			<description>
+				<![CDATA[Passeio estreito dos dois lados<br /><a href="http://localhost/reports/view/52">More...</a>]]>
+			</description>
+			<address><![CDATA[Rua de Dom António Barroso, a terminar na Rua de Oliveira Monteiro]]></address>
+			<Point>
+				<coordinates>
+					-8.624897,41.160077				</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<styleUrl>#category_1</styleUrl>			<name><![CDATA[Passadeira sem rampa]]></name>
+			<description>
+				<![CDATA[Passadeira sem rampa de um lado<br /><a href="http://localhost/reports/view/53">More...</a>]]>
+			</description>
+			<address><![CDATA[Cruzamento entre Rua da Constituição e Oliveira Monteiro]]></address>
+			<Point>
+				<coordinates>
+					-8.625026,41.164197				</coordinates>
+			</Point>
+		</Placemark>
+			</Document>
+</kml>
