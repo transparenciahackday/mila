@@ -5,8 +5,9 @@
 // I18n generated at: 2012-12-09 06:10+0000
 // PO revision date:  2012-11-27 06:06+0000
 $lang = array(
-	'access_denied_credentials' => 'Access denied. Either your credentials are not valid or your request has been refused',
-	'access_denied_others' => 'Access denied. Your request has been understood, but denied due to access limits like time. Try Back Later',
+	'access_denied_credentials' => 'Acesso negado. Ou as suas credenciais não são válidas ou o seu pedido foi recusado.',
+	'access_denied_others' => 'Acesso negado. O seu pedido foi processado, mas negado devido a limites de acesso como tempo. Tente mais tarde.',
+	'access_level' => 'Nível de Acesso',
 	'alerts' => 'Alertas',
 	'alerts_received' => 'Alertas Recebidos',
 	'checkin_details' => 'Detalhes',
