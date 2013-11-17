@@ -6,7 +6,7 @@
  * you are encouraged to set this option. An empty setting allows the cookie
  * to be read by any website domain.
  */
-$config['domain'] = '';
+$config['domain'] = 'mapamila.net';
 
 /**
  * Restrict cookies to a specific path, typically the installation directory.
@@ -23,7 +23,7 @@ $config['expire'] = 0;
  * Enable this option to only allow the cookie to be read when using the a
  * secure protocol.
  */
-$config['secure'] = FALSE;
+$config['secure'] = TRUE;
 
 /**
  * Enable this option to disable the cookie cannot be accessed through client side scripts (ie. JS). This option is only available in PHP 5.2 and above.
