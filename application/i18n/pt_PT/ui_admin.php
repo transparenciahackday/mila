@@ -86,6 +86,7 @@ $lang = array(
 	'every_six_hours' => 'A cada seis horas',
 	'every_twelve_hours' => 'A cada doze horas',
 	'experimental' => 'Experimental',
+	'facebook' => 'facebook',
 	'faqs' => 'Perguntas frequentes',
 	'feed' => 'feed',
 	'feedback' => 'Feedback',

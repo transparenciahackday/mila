@@ -205,6 +205,7 @@ $lang = array(
 	'example_country' => 'Portugal',
 	'external_apps' => 'Aplicações externas',
 	'external_video_link' => 'Link externa de vídeo',
+	'facebook' => 'Facebook',
 	'feedback' => 'Dê-nos a sua opinião',
 	'feedback_reports' => 'Dê-nos a sua opinião sobre a sua experiência, clicando no seguinte botão.',
 	'feed_has_been' => 'O feed foi',
